@@ -1,0 +1,5 @@
+media-libs/mesa **
+x11-drivers/nvidia-drivers **
+gui-libs/wlroots **
+dev-libs/libpthread-stubs **
+games-emulation/melonds **

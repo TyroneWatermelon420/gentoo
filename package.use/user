@@ -1,0 +1,54 @@
+app-admin/doas persist
+media-video/pipewire sound-server
+sys-devel/gcc lto graphite
+media-libs/mesa compiler-clang lm-sensors unwind vaapi vdpau llvm
+gui-apps/swaybg gdk-pixbuf
+x11-libs/gdk-pixbuf jpeg
+dev-util/vulkan-tools cube
+media-fonts/nerdfonts hack
+x11-themes/catppuccin-gtk -frappe mocha
+www-client/librewolf lto pgo
+net-p2p/qbittorrent qt6
+sys-libs/glibc hash-sysv-compat
+media-libs/libsdl2 opengl gles2
+x11-misc/picom opengl
+games-util/mangohud mangoapp
+>=media-libs/imgui-1.90.7-r2 glfw
+gui-wm/gamescope libei
+
+games-engines/openmw qt5
+>=sci-physics/bullet-3.21 double-precision
+>=media-libs/libsdl-1.2.68 opengl
+
+games-action/prismlauncher qt6
+>=dev-libs/quazip-1.4-r1 qt6
+
+## zathura
+>=app-text/poppler-24.08.0 cairo
+
+## latex
+>=media-libs/harfbuzz-9.0.0 icu
+>=dev-libs/icu-75.1 abi_x86_32
+
+app-crypt/heimdal -berkdb
+x11-misc/xdg-user-dirs gtk
+
+## cemu
+>=x11-libs/wxGTK-3.2.5 opengl
+
+## nemo
+>=x11-libs/xapp-2.8.5 introspection
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
+
+## keepassxc
+app-admin/keepassxc browser
+>=sys-libs/zlib-1.3.1-r1 minizip
+>=dev-qt/qtgui-5.15.14 egl
+
+## librewolf
+>=x11-base/xorg-server-21.1.13-r1 xvfb -minimal
+
+>=app-text/xmlto-0.0.28-r11 text
+
+>=dev-qt/qtbase-6.7.2-r2 opengl
+dev-qt/qttools opengl
